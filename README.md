@@ -45,10 +45,10 @@ By completing this activity, the following outcomes are expected:
 The following tools and technologies were used during this activity:
 
 - **Kali Linux** – Penetration testing operating system
-- **Web Browser (Firefox/Chrome)** – Manual testing and directory browsing
+- **Web Browser (Firefox)** – Manual testing and directory browsing
 - **DVWA (Damn Vulnerable Web Application)** – Vulnerable web application for testing
 - **SQL Injection Techniques** – Manual SQL payloads
-- **Password Cracking Tools** (e.g. Hashcat / John the Ripper)
+- **Password Cracking Tools** (e.g. crackstation)
 - **Reconnaissance Tools** (e.g. Nikto, directory enumeration techniques)
 - **Linux Command Line Utilities** – File navigation and system access
 
